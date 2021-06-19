@@ -45,7 +45,7 @@ body {
 .heading {
     padding: 160px 50px !important;
     color: #fff !important;
-    background-image: url("/assets/img/waveyellow.svg") !important;
+    background-image: url("assets/img/waveyellow.svg") !important;
     background-position: bottom !important;
     background-size: 200% !important;
     background-repeat: no-repeat !important;
